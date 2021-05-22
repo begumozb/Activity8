@@ -1,0 +1,23 @@
+#bluebutton{
+    display: block;
+    position: absolute;
+	background-color: #1c89ad;
+	padding: 15px 32px;
+}
+body{
+    width : 100%;
+}
+.ctr{
+    width : 100%;
+    height : 100%;
+}
+button{
+    display: block;
+    position: absolute;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+ }
