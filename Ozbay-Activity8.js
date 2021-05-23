@@ -1,10 +1,10 @@
-var b = document.querySelector("#movingbutton");
+var b = document.querySelector("#bluebutton");
 var count = 0;
 var timeout = 500;
 
 b.addEventListener("mouseover",()=>setTimeout(change,timeout));
 
-var btn = document.getElementById("movingbutton");
+var btn = document.getElementById("bluebutton");
 
 btn.onclick = function(){
 	count++;
